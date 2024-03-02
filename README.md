@@ -67,7 +67,7 @@ If you cannot run ASR along with Summarization models due to a GPU limitation, p
 
 Segmentation needs an embedding model, called flag embedding. 
 
-In our case, we are using an optimized, quantized version of this model to make it faster. We have uploaded the model to the link given in the submission.  
+In our case, we are using an optimized, quantized version of this model to make it faster.
 The folder name should be `bge_auto_opt_O4` and it should be directly under the backend folder
 
 Furthermore, you need the BiLSTM trained model. It is called `bilstm_bge_auto_opt_O4_5_best_model.pt` and should be put in the model directory inside the backend.
@@ -105,6 +105,20 @@ First, ensure you have gone over the previous steps.
 4. Wait for about 30 seconds for some AI models to be setup and loaded.
 5. Summarize lectures and learn more efficiently!
 
+## FAQ
+
+Where do I find the models used in LASER so I can run it locally?
+We will upload them on Hugging Face spaces soon.
 
 
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
