@@ -1,0 +1,17 @@
+/* Importing the Inter font from Google Fonts with specific weights and styles */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Setting the background color to a light shade */
+  background-color: #fefefe;
+
+  /* Setting the text color to black */
+  color: #000000;
+
+  /* Applying the "Inter" font family with fallback to sans-serif */
+  font-family: "Inter", sans-serif;
+}
