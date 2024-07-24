@@ -123,5 +123,7 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## Contributors
-Yaser AlOsh - [github.com/YaserAlOsh](https://github.com/YaserAlOsh) /
-Osama Abdulghani - [github.com/smil7](https://github.com/smil7)
+Yaser AlOsh - [github.com/YaserAlOsh](https://github.com/YaserAlOsh) / 
+Meriem Aoudia - [github.com/Meriiem](https://github.com/Meriiem) / 
+Osama Abdulghani - [github.com/smil7](https://github.com/smil7) / 
+Omar AlAli
